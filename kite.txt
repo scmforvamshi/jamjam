@@ -1,1 +1,1 @@
-"GITHOOK"
+"GITHK"
